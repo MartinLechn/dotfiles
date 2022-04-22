@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = martin_lechner@outlook.com
+	name = Martin Lechner
